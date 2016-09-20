@@ -1,12 +1,13 @@
 myData = [
-[42.340075,-71.0895367, 'Northeastern, Boston, MA 02115, USA'],
-[38.2113643,-85.7470011, 'Bradley Ave, Louisville, KY, USA'],
-[32.778949,35.019648, 'Technion/ Sports Building, Haifa'],
-[18.4574518,73.8837999, 'Vishwakarma Institutes Play Ground, Yashodhan Society, Kapil Nagar, Kondhwa Budrukh, Vishwakarma, Maharashtra 411048, India'],
-[33.1561058,131.826132, 'Japan, 〒875-0002 Ōita-ken, Usuki-shi, Shitanoe, 1232−2 ＵＭＤ'],
-[42.4036847,-71.120482, 'South Hall Tufts University, 30 Lower Campus Rd, Somerville, MA 02144, USA'],
-[-37.914517,145.1303881, 'Monash College, Wellington Rd, Clayton VIC 3168, Australia'],
+[-6.897645,107.634078, 'Institut Teknologi Nasional (ITENAS), Sukaluyu, Cibeunying Kaler, Bandung City, West Java 40123, Indonesia'],
+[42.340082,-71.0894884, 'Northeastern, Boston, MA 02115, USA'],
+[40.7399972,-74.1775311, 'Bradley Hall, 110 Warren St, Newark, NJ 07102, USA'],
+[32.776653,35.020411, 'Technion/Dormitories, Haifa'],
+[18.4596142,73.8854376, 'Vishwakarma Institute of Information Technology, Survey No. 2/3/4, VIM Private Rd, Kapil Nagar, Kondhwa, Pune, Maharashtra 411048, India'],
+[42.4036848,-71.120482, 'South Hall Tufts University, 30 Lower Campus Rd, Somerville, MA 02144, USA'],
+[-38.15186,145.1348138, 'Monash University, Frankston VIC 3199, Australia'],
 [53.2948229,69.4047872, 'Kokshetau 020000, Kazakhstan'],
 [40.7127837,-74.0059413, 'New York, NY, USA'],
-[52.2869741,104.3050183, 'Irkutsk, Irkutsk Oblast, Russia']
+[52.2869741,104.3050183, 'Irkutsk, Irkutsk Oblast, Russia'],
+[8.481302,4.611479, 'University Rd, Ilorin, Nigeria']
 ];
